@@ -4,7 +4,7 @@ function Addresses() {
     return (
         <div className='addresses justify-content-between d-inline-flex flex-column gap-4 mt-4 col' >
             <div className='title'>Адреса заведений</div>
-                <div className='flex-start flex-column gap-3'>
+                <div className='d-inline-flex flex-column gap-3'>
                 <ListElement>Санкт-Петербург, Невский пр-т. 28</ListElement>
                 <ListElement>Санкт-Петербург, Казанская ул, 7</ListElement>
                 <SecondaryButton>Добавить филиал</SecondaryButton>
