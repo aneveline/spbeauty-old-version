@@ -14,3 +14,7 @@
     align-items: flex-start;
     height: 266px;
 }
+
+.profile_text {
+    color: #64748B;
+}
