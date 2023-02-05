@@ -2,3 +2,9 @@
 .no_padding {
     padding: 0;
 }
+
+.addresses {
+    border: 1px #64748B12 solid;
+    border-radius: 8px;
+    padding: 24px;
+}
