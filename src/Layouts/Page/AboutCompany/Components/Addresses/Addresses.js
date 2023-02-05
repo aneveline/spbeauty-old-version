@@ -8,8 +8,9 @@ function Addresses() {
                 <div className='ListElement'>
                 <ListElement>Санкт-Петербург, Невский пр-т. 28</ListElement>
                 <ListElement>Санкт-Петербург, Казанская ул, 7</ListElement>
-                <SecondaryButton>Добавить филиал</SecondaryButton>
                 </div>
+                <SecondaryButton>Добавить филиал</SecondaryButton>
+                
         </div>
     );
 }
