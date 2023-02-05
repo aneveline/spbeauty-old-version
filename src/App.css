@@ -9,3 +9,8 @@
     padding: 24px;
     width: 453px;
 }
+
+.list-element {
+    align-items: flex-start;
+    height: 266px;
+}

@@ -7,8 +7,6 @@ const Option = styled.div`
     outline: none;
     border-radius: 0px;
     color: #0F172A
-    align-items: flex-start;
-    height: 266px;
 `;
 
 function ListElement(props) {
